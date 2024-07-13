@@ -19,7 +19,7 @@ Assigned ID `[errata #xxxxx]`
 
 ```
 Erewhon; Or, Over the Range, by Butler, Samuel
-    MONTH, YEAR  [EBook #1906]
+    Sept, 1999  [EBook #1906]
 
 
 ```
